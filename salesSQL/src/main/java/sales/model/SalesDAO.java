@@ -7,8 +7,8 @@ import org.apache.ibatis.session.SqlSession;
 import sales.model.domain.SalesDTO;
 import sales.util.DBUtil2;
 
-public class SalesDAOXXXXX {
-
+public class SalesDAO {
+//xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 	//selectAllAccountsAccId()
 	
 	//insertAccount()
