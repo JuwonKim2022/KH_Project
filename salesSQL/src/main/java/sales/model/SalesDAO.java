@@ -8,7 +8,7 @@ import sales.model.domain.SalesDTO;
 import sales.util.DBUtil2;
 
 public class SalesDAO {
-
+//xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 	//selectAllAccountsAccId()
 	
 	//insertAccount()
